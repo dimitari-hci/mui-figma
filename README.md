@@ -1,4 +1,4 @@
-![MUI (Material Design Component Figma Library For Vue.js)](https://cdn-images-1.medium.com/max/2600/1*MN3UqHJc0QZR1kp8QE0Opg.png)
+![MUI (Material Design Component Figma Library For React)](https://miro.medium.com/max/1400/1*psZCUmXNN0ds0-xL-v3Bqg.png)
 
 # MUI (Material Design Component Figma Library For Vue.js)
 Material Design Components Figma Library For React (MUI UI Library)
